@@ -93,6 +93,7 @@
       height: auto;
       max-width: 20px;
       max-height:20px;
+      margin-top: 23px;
       margin-right: 15px;
     }
   
@@ -101,14 +102,16 @@
       height: auto;
       max-width: 20px;
       max-height: 20px;
+      margin-top: 20px;
       margin-right: 13px;
     }
   
-    .bell-icon {
+    .dots-icon {
       width: auto;
       height: auto;
       max-width: 20px;
       max-height: 20px;
+      margin-top: 20px;
       margin-right: 13px;
     }
   
@@ -117,6 +120,7 @@
       height: auto;
       max-width: 17px;
       max-height: 17px;
+      margin-top: 10px;
     }
   
     /* --------- Main view side: video, description and suggested videos --------- */
