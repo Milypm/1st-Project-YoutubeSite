@@ -1,10 +1,10 @@
 # Embedded HTML/CSS Project
 
-![screenshot](images/1st-project-HTML.png)
+![screenshot](images/project-html-css.png)
 
 ### **Description:** 
 
-Site based on Youtube home page, it shows a navigation bar, a section with embedded video and  related information, and sidebar to the right showing suggested videos.
+Project based on Youtube home page, it shows a navigation bar, a section with embedded video and  related information, and sidebar to the right showing suggested videos.
  
  **- Navigation bar includes:**
  
