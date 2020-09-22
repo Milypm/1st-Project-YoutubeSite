@@ -1,7 +1,7 @@
 # 1st-Project-YoutubeSite
-# Embedded HTML/CSS project. :grinning: :+1:
+# Embedded HTML/CSS project. 
 
-:EMOJICODE:
+
 ### **Description:** 
 
 Site based on Youtube home page, it shows a navigation bar, a section with embedded video and  related information, and sidebar to the right showing suggested videos.
