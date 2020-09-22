@@ -63,3 +63,12 @@ You can download the code or clone the repository to your local system.
 	
 **- Milagros (Mily) Puente/**
 	**Github account: @Milypm**
+	
+## **Show your support**
+
+Spread the word if you like this project.
+
+## **Acknowledgments**
+
+Thanks to http://w3schools-fa.ir
+Thanks to https://stackoverflow.com
