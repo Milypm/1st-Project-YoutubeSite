@@ -1,6 +1,6 @@
-# 1st-Project-YoutubeSite
-# Embedded HTML/CSS project. 
-![screenshot](......)
+# Embedded HTML/CSS Project
+
+![screenshot](images/1st-project-HTML.png)
 
 ### **Description:** 
 
