@@ -1,16 +1,20 @@
 # 1st-Project-YoutubeSite
-1st HTML/CSS project.
+# Embedded HTML/CSS project. :grinning: :+1:
 
-Description:
+:EMOJICODE:
+### **Description:** 
+
 Site based on Youtube home page, it shows a navigation bar, a section with embedded video and  related information, and sidebar to the right showing suggested videos.
  
- - Navigation bar includes:
+ **- Navigation bar includes:**
+ 
  	- Three lines icon (embedded image).
  	- Youtube logo (embedded image).
  	- Searchbar/search button (input element).
  	- Four icons on the right side (embedded images).
  	
- - Video section includes:
+ **- Video section includes:**
+ 
  	- Embedded video.
  	- Video's title.
  	- Video's publisher (with the user's avatar).
@@ -18,25 +22,44 @@ Site based on Youtube home page, it shows a navigation bar, a section with embed
  	- Number of views.
  	- Share, Like, and Dislike buttons included.
  	
- - Sidebar recommended videos includes:
+ **- Sidebar recommended videos includes:**
+ 
  	- Video's thumbnail preview (embedded image).
  	- Video's title.
  	- Video's number of views.
  	
- Tools used: HTML5, and CSS3.
+	
+	
+ ### **Tools used:**
  
- Live Demo link: https://milypm.github.io/1st-Project-YoutubeSite/ 
+ HTML5, and CSS3.
  
- Requirements: 
+ 
+ ### **Live Demo link:** 
+ 
+ https://milypm.github.io/1st-Project-YoutubeSite/ 
+ 
+ 
+### **Getting Started:**
+
+Is the main Youtube site with a navbar section, video and suggested videos section.
+
+
+ ### **Requirements:** 
  - OS: Windows, Linux, or Mac.
  - Browser: Google Chrome, Mozilla Firefox, Edge, etc.
  
----You can download the code or clone the repository to your local system---
+
+### **Set up:**
+
+You can download the code or clone the repository to your local system.
 
 
-Authors:
-- Varun Sharma
-	Github account: /ultramax
+
+## **Authors:**
+
+**- Varun Sharma/**
+	**Github account: @ultramax**
 	
-- Milagros (Mily) Puente
-	Github account: /Milypm
+**- Milagros (Mily) Puente/**
+	**Github account: @Milypm**
