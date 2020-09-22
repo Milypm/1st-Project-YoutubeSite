@@ -30,7 +30,7 @@
     width: auto;
     max-height: 10px;
     max-width: 10px;
-    margin-top: 7px;
+    margin-top: 20px;
   }
   
   .logo-cont {
@@ -58,9 +58,9 @@
   .yt-logo {
     width: auto;
     height: auto;
-    max-height: 120px;
-    max-width: 120px;
-    margin-top: 7px;
+    max-height: 90px;
+    max-width: 90px;
+    margin-top: 15px;
     margin-left: 40px;
   }
   
@@ -152,7 +152,7 @@
       flex-direction: column;
       font-size: 20px;
       background-color: white;
-      margin-top: 15px;
+      margin-top: 0px;
       padding-left: 15px;
       padding-bottom: 15px;
     }
