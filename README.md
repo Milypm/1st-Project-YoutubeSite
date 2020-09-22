@@ -58,10 +58,10 @@ You can download the code or clone the repository to your local system.
 
 ## **Authors:**
 
-**- Varun Sharma/**
+👤 **Varun Sharma/**
 	**Github account: @ultramax**
 	
-**- Milagros (Mily) Puente/**
+👤 **Milagros (Mily) Puente/**
 	**Github account: @Milypm**
 	
 ## **Show your support**
