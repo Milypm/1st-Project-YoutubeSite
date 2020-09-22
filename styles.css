@@ -306,6 +306,6 @@
       margin-bottom: 30px;
     }
     
-    .video-icon, .apps-icon, .user-icon, .bell-icon, .options-icon, .yt-logo, button, .share, .suggest-videos-1, .suggest-videos {
+    .video-icon, .apps-icon, .user-icon, .dots-icon, .options-icon, .yt-logo, button, .share, .suggest-videos-1, .suggest-videos {
       cursor: pointer;
   }
